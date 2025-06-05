@@ -77,7 +77,6 @@ fun TomAccountScreen() {
                 horizontalAlignment = Alignment.CenterHorizontally,
                 modifier = Modifier
                     .align(Alignment.Center)
-                    .padding(top = 62.dp)
             ) {
                 Spacer(Modifier.height(4.dp))
                 Image(
