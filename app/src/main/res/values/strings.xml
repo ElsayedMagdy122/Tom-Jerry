@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tom and Jerry</string>
+    <string name="greeting">Hi, Jerry 👋🏻</string>
+    <string name="subtitle">Which Tom do you want to buy?</string>
+</resources>
